@@ -1,3 +1,4 @@
+This scan recorded with quasarscan version <unknown> on date <unknown> (before version 3.0.1)
 Simparams: [dsname, z, center[0], center[1], center[2], Rvir, pathname, L[0], L[1], L[2], convert]
 Simparams: ['VELA_v2_art_07', 2.992441183224681, 7.125491406711055, 6.635985400624236, 7.608418251152292, 69.75, '/nobackupp2/cstrawn/mydir/VELA_v2.0_art_07/10MpcBox_csf512_a0.250.d', -0.539505, -0.580589, 457.533, 14312.761414268381, 'Mpc']
 Scanparams: [R, n_th, n_phi, n_r, r_max, num_lines, line_reached]

@@ -1,3 +1,4 @@
+Metadata recorded on file <unknown> with quasarscan version <unknown> on date <unknown> (before version 3.0.1)
 a, center_x, center_y, center_z, L_x, L_y, L_z, bulk_velocity_x, bulk_velocity_y, bulk_velocity_z, Rvir, Mvir, Lmag, sfr, Mstar, Mgas, compaction_stage
 0.1, -0.181489, 0.248167, 59.2377, -0.584251, 0.687467, 0.431324, 31.3998, 0.351524, -0.584251, 7.75, 13280600000.0, 44.5207, 0.705147, 43060200.0, 1141410000.0, pre
 0.11, -0.0140659, -0.0219019, -8.48998, -0.323783, 0.694013, 0.643048, -21.558, -3.31878, -0.323783, 9.75, 18816800000.0, 10.8853, 0.838486, 119721000.0, 1378470000.0, pre
