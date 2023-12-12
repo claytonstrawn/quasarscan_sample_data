@@ -1,0 +1,7 @@
+CGM2_RDR_obs
+Berg et al. 2019 https://arxiv.org/pdf/1811.10717.pdf
+
+QSOName,Galaxy_ra,Galaxy_dec,z,r,log Mstar,SF/E,Rvir,log O VI:cdens,log O VI:eb
+
+J0226+0015,36.5509,+0.2444,0.473,367,11.1,SF,427,13.92,<
+SDSSJ110631.05+351051.3,166.6358,+35.1702,0.4704,261,11.0,E,410,14.15,<

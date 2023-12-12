@@ -1,0 +1,7 @@
+CGM2_QSAGE_obs
+Bielby et al. 2019 https://arxiv.org/pdf/1809.05544.pdf
+
+QSOName,Galaxy_ra,Galaxy_dec,z,r,log Mstar,SF/E,Rvir,log O VI:cdens,log O VI:eb
+
+PHL1377,38.7839,-4.0406,0.1735,73,9.4,SF,117,13.7,nan
+PHL1377,38.7801,-4.0257,0.4341,191,9.1,SF,99,14.2,nan

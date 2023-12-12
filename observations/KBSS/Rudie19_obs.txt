@@ -1,0 +1,13 @@
+KBSS_Rudie19_obs
+Rudie et al. 2019 https://arxiv.org/pdf/1903.00004.pdf
+
+cgm,z,r,Rvir,num_comps,log Si II:cdens,log Si II:eb,log C II:cdens,log C II:eb,log Si III:cdens,log Si III:eb,log C III:cdens,log C III:eb,log Si IV:cdens,log Si IV:eb,log C IV:cdens,log C IV:eb
+
+Q0105-BX90b,2.3563,34.5,100,12,12.48,<,12.42,<,11.70,nan,13.57,nan,11.88,nan,13.51,nan
+Q1442-MD50a,2.4667,56.5,100,15,12.45,nan,13.34,nan,12.99,nan,nan,nan,13.21,nan,14.19,nan
+Q1549-D15,2.6923,56.6,100,15,12.58,<,12.26,<,12.98,nan,14.46,nan,13.15,nan,14.04,nan
+Q1442-MD50b,2.4360,61.9,100,31,13.95,nan,14.69,nan,13.56,>,14.22,>,14.19,nan,14.63,>
+Q0142-BX182,2.3555,75.2,100,25,13.73,nan,14.56,nan,13.57,>,14.08,>,13.93,nan,14.60,nan
+Q2343-BX551,2.1120,86.9,100,8,12.44,<,nan,nan,13.27,nan,nan,nan,13.27,nan,14.15,nan
+Q0100-BX210,2.2769,89.6,100,24,12.45,<,nan,nan,12.86,nan,14.26,nan,12.56,nan,14.27,nan
+Q1623-BX432,2.1825,97.3,100,0,12.37,<,12.60,<,nan,nan,nan,nan,12.29,<,12.44,<
